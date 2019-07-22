@@ -2,4 +2,8 @@
 
 Solution to reproduce missing locals and watch variables
 
-<img scr="SolutionItems/mainpage.jpg" alt="missing locals and watch variables" style="display:inline-block;" heigth="316px" />
+<img src="SolutionItems/mainpage.debug.watch.local.png" alt="Missing locals and watch variables" height="316px" style="display:inline-block;" />
+
+# Steps to reproduce
+
+TBD
